@@ -1,0 +1,26 @@
+{
+  "name": "2020-05-11-noisemaker",
+  "version": "1.0.0",
+  "description": "## IMPORTANT Announcements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jralorro93/2020-05-11-noisemaker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jralorro93/2020-05-11-noisemaker/issues"
+  },
+  "homepage": "https://github.com/jralorro93/2020-05-11-noisemaker#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
